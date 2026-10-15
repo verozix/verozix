@@ -1,5 +1,5 @@
 
-<svg width="800" height="1586" viewBox="0 0 800 1586" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1578" viewBox="0 0 800 1578" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1586" fill="#060606" rx="0" />
+  <rect class="" width="800" height="1578" fill="#060606" rx="0" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_1792064366278_0">
@@ -47,7 +47,7 @@
     </g>
   
 
-    <g transform="translate(0, 106)" id="widget-widget_1792064366278_1">
+    <g transform="translate(12, 106)" id="widget-widget_1792064366278_1">
 
       
           <style>
@@ -451,7 +451,7 @@
     </g>
   
 
-    <g transform="translate(0, 566)" id="widget-widget_1792064366278_3">
+    <g transform="translate(8, 566)" id="widget-widget_1792064366278_3">
 
       
         <style>
@@ -547,7 +547,7 @@
     </g>
   
 
-    <g transform="translate(544, 566)" id="widget-widget_1792064366278_5">
+    <g transform="translate(552, 566)" id="widget-widget_1792064366278_5">
 
       
         <style>
@@ -618,7 +618,7 @@
     </g>
   
 
-    <g transform="translate(288, 80)" id="widget-widget_1792064425338">
+    <g transform="translate(304, 80)" id="widget-widget_1792064425338">
 
       
       
@@ -788,7 +788,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">2               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">5</tspan>                <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">2               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">6</tspan>                <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -943,7 +943,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">14</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">4               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">15</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -974,7 +974,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">16</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">17</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1005,7 +1005,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">18</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">19</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1036,7 +1036,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">20</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">21</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1098,7 +1098,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">23</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">24</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1129,7 +1129,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">25</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">26</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1160,7 +1160,7 @@
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">8               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">27</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">0               </tspan><tspan fill="#e5e5e5">8               </tspan><tspan fill="#e5e5e5">0               </tspan><tspan fill="#3fb950">28</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">verozix                                      </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -1183,14 +1183,14 @@
     </g>
   
 
-    <g transform="translate(0, 774)" id="widget-widget_1792064740103">
+    <g transform="translate(10, 762)" id="widget-widget_1792064740103">
 
       
       
       
       
       
-    <svg width="800" height="220" viewBox="0 0 800 220" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+    <svg width="780" height="220" viewBox="0 0 800 220" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
       <defs>
         
     <style>
@@ -1308,14 +1308,14 @@
     </g>
   
 
-    <g transform="translate(0, 1026)" id="widget-widget_1792064756232">
+    <g transform="translate(10, 1022)" id="widget-widget_1792064756232">
 
       
       
       
       
       
-    <svg width="800" height="260" viewBox="0 0 800 260" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg width="780" height="260" viewBox="0 0 800 260" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       <defs>
         
     <style>
@@ -1441,7 +1441,7 @@
     </g>
   
 
-    <g transform="translate(0, 1330)" id="widget-widget_1792065009625">
+    <g transform="translate(10, 1322)" id="widget-widget_1792065009625">
 
       
       
@@ -1840,7 +1840,7 @@
 <rect class="c-widget_1792065009625" style="animation-delay:0.981s" x="747.3030303030303" y="63.371212121212125" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-10-12: 0 contributions</title></rect>
 <rect class="c-widget_1792065009625" style="animation-delay:1.026s" x="747.3030303030303" y="76.74242424242425" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#161b22"><title>2026-10-13: 0 contributions</title></rect>
 <rect class="c-widget_1792065009625" style="animation-delay:1.071s" x="747.3030303030303" y="90.11363636363636" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#26a641"><title>2026-10-14: 16 contributions</title></rect>
-<rect class="c-widget_1792065009625" style="animation-delay:1.116s" x="747.3030303030303" y="103.48484848484848" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#006d32"><title>2026-10-15: 11 contributions</title></rect>
+<rect class="c-widget_1792065009625" style="animation-delay:1.116s" x="747.3030303030303" y="103.48484848484848" width="10.696969696969697" height="10.696969696969697" rx="2.5" fill="#006d32"><title>2026-10-15: 12 contributions</title></rect>
 <text x="640.4469696969697" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="646.4469696969697" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#161b22"/>
 <rect x="659.8181818181819" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#0e4429"/>
@@ -1850,7 +1850,7 @@
 <rect x="713.3030303030304" y="149.59848484848484" width="10.696969696969697" height="10.696969696969697" rx="2.2" fill="#69f0a0"/>
 <text x="758" y="158.2" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="174.29545454545453" x2="780" y2="174.29545454545453" stroke="#252525" stroke-opacity="0.25"/>
-<text x="22" y="198.29545454545453" font-size="13" fill="#39d353"><tspan font-weight="700">27</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="22" y="198.29545454545453" font-size="13" fill="#39d353"><tspan font-weight="700">28</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
 <text x="758" y="198.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">Oct 12, 2025 &#8594; Oct 15, 2026</text>
 <text x="22" y="222.29545454545453" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">2 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">2 days</tspan></text>
 <text x="758" y="222.29545454545453" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">16</tspan> on Oct 14, 2026</text>
@@ -1859,7 +1859,7 @@
     </g>
   
 
-    <g transform="translate(0, 418)" id="widget-widget_1792067183907">
+    <g transform="translate(0, 410)" id="widget-widget_1792067183907">
 
       
       
