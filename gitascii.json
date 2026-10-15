@@ -21,7 +21,7 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 0,
+        "x": 12,
         "y": 106
       },
       "size": {
@@ -11527,7 +11527,7 @@
       "widgetId": "languages",
       "name": "Languages Widget",
       "position": {
-        "x": 0,
+        "x": 8,
         "y": 566
       },
       "size": {
@@ -11547,7 +11547,7 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 544,
+        "x": 552,
         "y": 566
       },
       "size": {
@@ -11579,7 +11579,7 @@
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 288,
+        "x": 304,
         "y": 80
       },
       "size": {
@@ -11605,11 +11605,11 @@
       "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
       "position": {
-        "x": 0,
-        "y": 774
+        "x": 10,
+        "y": 762
       },
       "size": {
-        "width": 800,
+        "width": 780,
         "height": 220
       },
       "config": {},
@@ -11622,11 +11622,11 @@
       "widgetId": "codeweb-retro-grid",
       "name": "Codeweb-retro-grid Widget",
       "position": {
-        "x": 0,
-        "y": 1026
+        "x": 10,
+        "y": 1022
       },
       "size": {
-        "width": 800,
+        "width": 780,
         "height": 260
       },
       "config": {
@@ -11656,8 +11656,8 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
-        "y": 1330
+        "x": 10,
+        "y": 1322
       },
       "size": {
         "width": 780,
@@ -11676,7 +11676,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 418
+        "y": 410
       },
       "size": {
         "width": 304,
